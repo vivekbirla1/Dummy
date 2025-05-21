@@ -3,4 +3,7 @@
 hii my name is vivek!
     
     hello 
-    wbu
+    wbug
+
+learning new things with practice 
+open index.py in vscode or notepad 
